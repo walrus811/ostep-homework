@@ -1,3 +1,5 @@
+# Homework(Simulation)
+
 Q1. Each process uses 100% of CPU utilization while it's running, because they run in turn.
 
 Q2. It takes as long as the sum of the first and second task durations, because the first process fully uses the CPU during its execution. The second one has to issue the I/O task after it.
